@@ -32,7 +32,7 @@ function HeroSection() {
       <section className="w-full bg-[#F4FDF8] pb-4 flex flex-col">
         {/* Navigation */}
         <nav className="flex justify-between items-center px-4 lg:px-12 py-5 md:py-6">
-          <div className="text-2xl lg:text-3xl font-medium text-black">Artin</div>
+          <div className="text-2xl lg:text-3xl font-medium text-black">Premier Stay</div>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex space-x-6 xl:space-x-8 items-center">
